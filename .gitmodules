@@ -1,0 +1,9 @@
+[submodule "backpack-web-app"]
+	path = backpack-web-app
+	url = https://github.com/jokeoa/backpack-web-app.git
+[submodule "backpack-server"]
+	path = backpack-server
+	url = https://github.com/jokeoa/backpack-server.git
+[submodule "backpack-docs"]
+	path = backpack-docs
+	url = https://github.com/jokeoa/backpack-docs.git
